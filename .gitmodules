@@ -1,3 +1,12 @@
 [submodule "simple_calculator"]
 	path = simple_calculator
 	url = https://github.com/KaustubhaRam/simple_calculator.git
+[submodule "E-commerce_website"]
+	path = E-commerce_website
+	url = https://github.com/KaustubhaRam/E-commerce_website.git
+[submodule "to_do_list"]
+	path = to_do_list
+	url = https://github.com/KaustubhaRam/to_do_list.git
+[submodule "connect_four_game"]
+	path = connect_four_game
+	url = https://github.com/KaustubhaRam/connect_four_game.git
